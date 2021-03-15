@@ -1,4 +1,4 @@
-# (Apllication Name)
+# (Application Name)
 
 #### By (Raya Sodwilai)
 
